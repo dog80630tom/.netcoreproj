@@ -1,0 +1,2 @@
+# .netcoreproj
+.netcore
